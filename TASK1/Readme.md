@@ -1,7 +1,7 @@
 Hello people! 
 I'm Gayatri Vadaparty,
 
-I hereby show you my task submission for Gratitude Rotational Internship Program in Sparks Foundation.
+I hereby show you my task submission for Graduate Rotational Internship Program in Sparks Foundation.
 As you can see, here is a code for my problem statement.
 I chose Task 1 in which we're asked to make a model which can predict 
 the score of a student based on the no. of hours he studied.
