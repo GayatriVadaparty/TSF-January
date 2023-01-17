@@ -1,17 +1,17 @@
 Hello people! 
 I'm Gayatri Vadaparty,
 
-I hereby show you my task submission for GRIP in Sparks Foundation.
-As you can see, here is a code for my problem statemnt.
+I hereby show you my task submission for Gratitude Rotational Internship Program in Sparks Foundation.
+As you can see, here is a code for my problem statement.
 I chose Task 1 in which we're asked to make a model which can predict 
 the score of a student based on the no. of hours he studied.
 
 So, In the first cell, I've used pandas to read and access the given csv data file.
-Later on, I've assigned the independent variables in the df to x and the target bvariable to y.
+Later on, I've assigned the independent variables in the df to x and the target variable to y.
 It's clear that there is one independent variable HOURS 
 which can determine the target variable called SCORE.
 
-After that, I attempted to visualize my data from which i can know 
+After that, I've attempted to visualize my data from which i can know 
 what regression model can be applied. Like a linear model,or Quadratic model.
 or whatever.
 
